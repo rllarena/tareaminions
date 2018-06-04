@@ -11,4 +11,5 @@ public class minion1(){
 		inteligencia: pensar();
 		sumar = 2+2;
 	}
+	public (cantar) = lalala;
 }
