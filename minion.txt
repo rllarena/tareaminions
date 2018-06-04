@@ -9,7 +9,7 @@ public class minion1(){
 
 	{
 		inteligencia: pensar();
-		sumar = 2+2;
+		sumar = 2+3;
 	}
 	public (cantar) = lalala;
 }
