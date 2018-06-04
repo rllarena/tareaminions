@@ -6,4 +6,9 @@ public class minion1(){
 	public hablar (){
 		return"me want banana";
 	}
+
+	{
+		inteligencia: pensar();
+		sumar = 2+2;
+	}
 }
